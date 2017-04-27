@@ -1,0 +1,7 @@
+D:\Visual Studio Project\GCM_Sender_Service\GCM_Sender_Service\obj\Debug\GCM_Sender_Service.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\GCM_Sender_Service\GCM_Sender_Service\bin\Debug\GCM_Sender_Service.dll
+D:\Visual Studio Project\GCM_Sender_Service\GCM_Sender_Service\bin\Debug\GCM_Sender_Service.pdb
+D:\Visual Studio Project\GCM_Sender_Service\GCM_Sender_Service\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Project\GCM_Sender_Service\GCM_Sender_Service\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Project\GCM_Sender_Service\GCM_Sender_Service\obj\Debug\GCM_Sender_Service.dll
+D:\Visual Studio Project\GCM_Sender_Service\GCM_Sender_Service\obj\Debug\GCM_Sender_Service.pdb
